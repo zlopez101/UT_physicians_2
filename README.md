@@ -1,4 +1,8 @@
-# UT_physicians_2
+# Call Center
+
+When COVID-19 hit, our practice was enlisted to start administering COVID-19 diagnostic test to the Houston Area. Given the urgency and complete 180 from standard day-to-day operations, our insurance was forced into an uncomfortable position of managing the roll out of the new venture as quick as possible. 
+
+I recently started playing around with the Flask framework and found it really intuitive for building websites. This call center is my attempt to build a fully fledged call center and webite that would allow patients to book appointments, fax in documentation, and connect with employees that could help them answer questions. 
 
 DB considerations:
 1. get rid of AppointmentSlots - too many things to load
